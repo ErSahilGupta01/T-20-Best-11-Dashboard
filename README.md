@@ -5,6 +5,7 @@
 Welcome to the **T20 2022 Cricket World Cup Best 11 Players Dashboard**! This project aims to analyze the performance of players from the T20 2022 Cricket World Cup and identify the top 11 players based on various metrics. The dashboard provides an interactive and insightful way to explore the data and make informed decisions.
 
 
+
 ![Dashboard Screenshot](Dashboard.png)
 
 ## Features
